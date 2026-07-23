@@ -18,15 +18,7 @@
 
 <div align="center">
 
-```txt
-┌────────────────────────────────────────────────────────┐
-│  USER:      Caroline Martini                            │
-│  CLASS:     Full-Stack Developer // Frontend Spec.       │
-│  LOCATION:  Relvado, Rio Grande do Sul, BR               │
-│  MISSION:   Investindo em qualificações técnicas         │
-│             e pessoais                                   │
-└────────────────────────────────────────────────────────┘
-```
+<img src="./assets/terminal-card.svg?v=2" width="100%" alt="Terminal Card" />
 
 </div>
 
@@ -83,16 +75,3 @@
 
 </div>
 <br/>
-
-### `> git log --stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SpaceCowboy-c&show_icons=true&theme=dark&hide_border=true&bg_color=0D0221&title_color=FF2E9A&icon_color=00F0FF&text_color=c9c9c9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceCowboy-c&layout=compact&theme=dark&hide_border=true&bg_color=0D0221&title_color=FF2E9A&text_color=c9c9c9" width="42%" />
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>

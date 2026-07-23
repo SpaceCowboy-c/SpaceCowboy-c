@@ -43,23 +43,23 @@
   </rect>
 
   <!-- Texto do terminal -->
-  <text x="50" y="72" font-family="Fira Code, Consolas, monospace" font-size="22" fill="#5CE1E6">USER:
+  <text x="50" y="72" font-family="Fira Code, Consolas, monospace" font-size="18" fill="#5CE1E6">USER:
     <tspan fill="#ffffff">Caroline Martini</tspan>
   </text>
 
-  <text x="50" y="112" font-family="Fira Code, Consolas, monospace" font-size="22" fill="#5CE1E6">CLASS:
+  <text x="50" y="112" font-family="Fira Code, Consolas, monospace" font-size="18" fill="#5CE1E6">CLASS:
     <tspan fill="#ffffff">Full-Stack Developer // Frontend Spec.</tspan>
   </text>
 
-  <text x="50" y="152" font-family="Fira Code, Consolas, monospace" font-size="22" fill="#5CE1E6">LOCATION:
+  <text x="50" y="152" font-family="Fira Code, Consolas, monospace" font-size="18" fill="#5CE1E6">LOCATION:
     <tspan fill="#ffffff">Relvado, Rio Grande do Sul, BR</tspan>
   </text>
 
-  <text x="50" y="192" font-family="Fira Code, Consolas, monospace" font-size="22" fill="#5CE1E6">MISSION:
+  <text x="50" y="192" font-family="Fira Code, Consolas, monospace" font-size="18" fill="#5CE1E6">MISSION:
     <tspan fill="#ffffff">Investindo em qualificacoes tecnicas</tspan>
   </text>
 
-  <text x="145" y="222" font-family="Fira Code, Consolas, monospace" font-size="22" fill="#ffffff">e pessoais
+  <text x="145" y="222" font-family="Fira Code, Consolas, monospace" font-size="18" fill="#ffffff">e pessoais
     <tspan fill="#FF2E9A">
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite" />
       &#9646;

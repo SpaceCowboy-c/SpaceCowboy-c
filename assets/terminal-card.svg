@@ -59,11 +59,4 @@
     <tspan fill="#ffffff">Investindo em qualificacoes tecnicas</tspan>
   </text>
 
-  <text x="145" y="222" font-family="Fira Code, Consolas, monospace" font-size="18" fill="#ffffff">e pessoais
-    <tspan fill="#FF2E9A">
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite" />
-      &#9646;
-    </tspan>
-  </text>
-
 </svg>
